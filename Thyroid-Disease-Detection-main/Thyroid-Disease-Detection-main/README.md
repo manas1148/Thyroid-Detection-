@@ -28,7 +28,7 @@ Random Forest, XGBoost and KNN were all performed well. XGBoost was chosen for t
 Hyper parameter tuning was performed using RandomizedSearchCV
 Model performance evaluated based on accuracy, confusion matrix, classification report.
 # Author
-Pavitra Mishra:https://www.linkedin.com/in/pavitra-mishra-483183251/
+Manas Rai Kaushik :https://www.linkedin.com/in/manas-rai-kaushik-1b4200242/
 
 
 
